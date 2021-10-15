@@ -1,0 +1,2 @@
+# Comparative-study-of-AD8034-and-AD826A
+The comparison between the Opamp’s is based on different Opamp parameters. The typical, maximum, and minimum values are extracted from the datasheets and are presented in tabular form and then the inference is given based on comparison and the available data values. The performance characteristics plots also give us an idea of the variation of Opamp parameters with respect to frequency, power supply, temperature, etc.
